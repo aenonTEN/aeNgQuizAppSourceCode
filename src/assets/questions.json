@@ -1,0 +1,197 @@
+
+{
+
+"questions" : [
+    {
+    "questionText": "What two words every programmer learned to code first?",
+    "options": [
+        {
+            "text": "Hello, World!",
+            "correct": true
+
+        },
+        {
+            "text": "Little, Chicken"
+                },
+        {
+            "text": "Hello, Sunshine!"
+                },
+        {
+            "text": "I'm Batman"
+                }
+    ]
+
+    },
+    {
+        "questionText": "What is the most popular programming problem?",
+        "options":[
+            {
+                "text": "Calculus"
+            },
+            {
+                "text": "Algebra"
+            },
+            {
+                "text": "Vitamin D"
+            },
+            {
+                "text": "Missing a Semicolon",
+                "correct": true
+
+            }
+        ]
+    },
+    {
+        "questionText": "As a programmer, where do you see yourself 10 years from now?",
+        "options":[
+            {
+                "text": "Happily married"
+            },
+            {
+                "text": "Drinking in the pub"
+            },
+            {
+                "text": "Sitting in front of a computer, probably programming",
+                "correct": true
+
+            },
+            {
+                "text": "Some place in Bali"
+            }
+        ]
+    },
+    {
+        "questionText": "Why are programmers multilingual?",
+        "options":[
+            {
+                "text": "They're Immigrants"
+            },
+            {
+                "text": "They're biracial"
+            },
+            {
+                "text": "They are fluent in morethan 1 languages",
+                "correct": true
+
+            },
+            {
+                "text": "They are born like that"
+            }
+        ]
+    },
+    {
+        "questionText": "What is the greatest fear of programmers?",
+        "options":[
+            {   "text": "Forgetting to enable Autosave",
+                "correct": true
+
+            },
+            {
+                "text": "To Commit"
+            },
+            {
+                "text": "Touching Grass"
+            },
+            {
+                "text": "Girls"
+            }
+        ]
+    },
+    {
+        "questionText": "How do programmers enjoy life?",
+        "options":[
+            {
+                "text": "Drinking beer in a pub"
+            },
+            {
+                "text": "When they see their codes run without error",
+                "correct": true
+
+            },
+            {
+                "text": "Vacay some place in Asia"
+            },
+            {
+                "text": "Netflix"
+            }
+        ]
+    },
+    {
+        "questionText": "Why are programmers single?",
+        "options":[
+            {
+                "text": "They've never touched grass"
+            },
+            {
+                "text": "Chicks don't dig codes"
+            },
+            {
+                "text": "They commit their lives to code",
+                "correct": true
+
+            },
+            {
+                "text": "It's complicated"
+            }
+        ]
+    },
+    {
+        "questionText": "What is the golden rule in programming?",
+        "options":[
+            {
+                "text": "If it works, don’t touch it",
+                "correct": true
+
+            },
+            {
+                "text": "There's no Golden rule"
+            },
+            {
+                "text": "SO university"
+            },
+            {
+                "text": "Am I missing something?"
+            }
+        ]
+    },
+    {
+        "questionText": "Where do programmers learn to program?",
+        "options":[
+            {
+                "text": "At Harvard"
+            },
+            {
+                "text": "At Stamford"
+            },
+            {
+                "text": "At Trump University"
+            },
+            {
+                "text": "At Stackoverflow University",
+                "correct": true
+
+            }
+        ]
+    },
+    {
+        "questionText": "Pick the Odd one out?",
+        "options":[
+            {
+                "text": "A flat"
+            },
+            {
+                "text": "B#"
+            },
+            {
+                "text": "E flat"
+            },
+            {
+                "text": "C#",
+                "correct": true
+            }
+        ]
+    }
+
+]
+
+}
